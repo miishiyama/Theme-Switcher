@@ -3,12 +3,12 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/Theme-Switcher-Dark.png">Dark</a>
+  <a href="./preview/Dark">Dark</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Theme-Switcher-Light.png">Light</a>
+  <a href="./preview/Light">Light</a>
 </p>
 
-![preview](./preview/Theme-Switcher-Dark.png)
+![preview](./preview/Dark/Theme-Switcher-Dark.png)
 
 ## Projeto 💻
 Projeto de um desafio da Rocketseat de desenvolver uma página que alterne entre o tema dark e light. <br>
