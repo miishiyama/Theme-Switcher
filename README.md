@@ -11,8 +11,11 @@
 ![preview](./preview/Dark/Theme-Switcher-Dark.png)
 
 ## Projeto 💻
-Projeto de um desafio da Rocketseat de desenvolver uma página que alterne entre o tema dark e light. <br>
-(https://www.figma.com/file/Jm1PrjTGTNaSBpRTJEiQFn/DD-%2F-Theme-Switcher-(Copy)?t=yPrtl6oQDTcmQUtU-6)
+Projeto de um desafio da Rocketseat de desenvolver uma página que alterne entre o tema dark e light.
+
+## Layout 🔖
+Segue abaixo o layout deste projeto:
+- [Figma](https://www.figma.com/file/Jm1PrjTGTNaSBpRTJEiQFn/DD-%2F-Theme-Switcher-(Copy)?t=yPrtl6oQDTcmQUtU-6)
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
