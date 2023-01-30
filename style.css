@@ -1,23 +1,23 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box
 }
 
 .body {
     background-color: #292C35;
-    transition: 0.5s;
+    transition: 0.5s
 }
 
 .body.light {
-    background-color: #F1F1F1;
+    background-color: #F1F1F1
 }
 
 .div {
     display: flex;
     height: 100vh;
     align-items: center;
-    justify-content: center;
+    justify-content: center
 }
 
 .div2 {
@@ -25,25 +25,25 @@
     background-color: black;
     border-radius: 59px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between
 }
 
 .moon {
     opacity: 1;
-    transition: 0.5s;
+    transition: 0.5s
 }
 
 .moon.light {
-    opacity: 0;
+    opacity: 0
 }
 
 .sun {
     opacity: 0;
-    transition: 0.5s;
+    transition: 0.5s
 }
 
 .sun.light {
-    opacity: 1;
+    opacity: 1
 }
 
 .ball {
@@ -52,9 +52,9 @@
     height: 86.31px;
     margin-top: 4px;
     margin-left: calc(8px + 94.15px + 38.85px);
-    transition: 0.5s;
+    transition: 0.5s
 }
 
 .ball.light {
-    margin-left: 8px;
+    margin-left: 8px
 }
