@@ -3,9 +3,13 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/Dark">Dark</a>
+  <a href="./preview/Dark">
+    Dark
+  </a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Light">Light</a>
+  <a href="./preview/Light">
+    Light
+  </a>
 </p>
 
 ![preview](./preview/Dark/Theme-Switcher-Dark.png)
@@ -20,6 +24,7 @@ Segue abaixo o layout deste projeto:
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
 1. Rode `git clone https://github.com/miishiyama/Theme-Switcher` para fazer um clone desse repositório.
+2. Abra o arquivo HTML.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
