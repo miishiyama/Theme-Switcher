@@ -6,7 +6,7 @@ let moon = document.querySelector(".moon")
 
 let body = document.querySelector(".body")
 
-ball.onclick = function() {
+ball.onclick = function () {
     ball.classList.toggle("light")
     sun.classList.toggle("light")
     moon.classList.toggle("light")
